@@ -16,7 +16,7 @@ Aplicación para llevar un registro del inventario del estado de vacunación de 
 > El proyecto utiliza Supabase (Postgres como servicio) como base de datos en la nube.
 
 ## Documentacion
-- La documentacion de las APIs está disponible en http://localhost:8080/swagger-ui/index.html#
+- La documentacion de las APIs está disponible en http://localhost:8080/swagger-ui.html
 
 
 --- 
